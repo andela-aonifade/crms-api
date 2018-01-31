@@ -1,0 +1,2 @@
+class SpecialDaysController < ApplicationController
+end
